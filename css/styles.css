@@ -1,0 +1,8 @@
+/* html body {
+    background-color: blueviolet;
+} */
+img.profile {
+    border-radius: 50%;
+    border: 4px solid #8c00ff;
+    size: 50px;
+  }
